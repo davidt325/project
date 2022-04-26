@@ -1,0 +1,55 @@
+/*DEVELOPER: Pablo Maldonado, IS117-002, Spring 2021 */
+.jumbotron {
+    background-size: cover;
+    height:500px;
+    color:white;
+    text-align: center;
+}
+.jumbotron img{
+    height:300px;
+    float: right;
+    margin-top: 250px;
+}
+photoside{
+    text-align: center;
+    color: black;
+    margin-bottom: 50px;
+}
+.col{
+    border: 2px solid black;
+    width: 400px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+.section h1{
+    font-size: 250%;
+}
+.section p{
+    font-size: 125%;
+}
+body{
+    color: darkslategray;
+    padding-bottom: 50px;
+}
+
+/*-------------------------------------------------------*/
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+.card{
+    float:left;
+    margin-left: 400px;
+}
+
+.card img{
+    width: 286px;
+    height:180px;
+}
